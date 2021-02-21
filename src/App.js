@@ -65,7 +65,7 @@ class App extends Component {
   render () {
     return (
       <div className="container mt-5 mb-5">
-        <h2 className="text-center">Tezyoz.uz ning kloni</h2>
+        <h2 className="text-center">Typing.com ning kloni</h2>
         <div className="row">
           <div className="col-md-6 offset-md-3">
             <Preview text={this.state.text} userInput={this.state.userInput} />

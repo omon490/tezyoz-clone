@@ -30,7 +30,7 @@ export default () => {
 
     `Xotin hurmat qilsa, hurmat ko'radi, Er hurmat qilsa, ne'mat ko'radi.`,
 
-    `Achchiq bilan chuchukni totgan bilar, Uzoq bilan yaqinni — yurgan.`,
+    `Achchiq bilan chuchukni totgan bilar, Uzoq bilan yaqinni - yurgan.`,
 
     `Bug'doy noning bo'lmasa ham, Ochiq yuzing bo'lsin.`,
 
