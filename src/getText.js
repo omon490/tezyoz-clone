@@ -11,17 +11,29 @@ export default () => {
     `Ablah do'st dushmandan yomon, Ne hiyla bilsa, ishlatar oson`,
 
     `Arpa-bug'doy bir kuningga yaraydi, Sodiq do'sting o'lguningcha yaraydi.`,
+
     `Bostirmadan ayvon yaxshi, Yomon do'stdan hayvon yaxshi`,
+
     `Dushman uyida yashagandan, Do'st uyida o'lgan yaxshi.`,
-    `Dushjmanimning do'sti — mening dushmanim, Dushmanimning dushmani — mening do'stim.`,
+
+    `Dushjmanimning do'sti - mening dushmanim, Dushmanimning dushmani - mening do'stim.`,
+
     `Do'st ziyonkor bo'lmas, Ziyonkor do'st bo'lmas.`,
+
     `Bilmaganni bildim dema, Qilmaganni qildim dema.`,
+
     `Davlat uchun erga tekkandan, yerga teg.`,
+
     `Zarraday joydan ko'ngil to'lar, Zarraday joydan ko'ngil qolar.`,
+
     `Kuchuk tomga chiqsa ham, Egasidan katta bo'lmas.`,
+
     `Xotin hurmat qilsa, hurmat ko'radi, Er hurmat qilsa, ne'mat ko'radi.`,
+
     `Achchiq bilan chuchukni totgan bilar, Uzoq bilan yaqinni — yurgan.`,
+
     `Bug'doy noning bo'lmasa ham, Ochiq yuzing bo'lsin.`,
+
     `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`,
 
     `Ikki oshna yoshlikdan birga o'sdilar. Davr kelib ikkalasi ham o'z baxtini izlab yo'lga chiqsalar, ikki yo'l uchraydi. Biri bir tomonga, ikkinchisi boshqa tomonga yo'l oladilar. Ulardan biri shaharma-shahar yurib ilm-u hunar orttiradi. Ikkinchisi, borgan shahrida podshoh saylash uchun uchirilgan semurg' qush tasodifan uning boshiga qo'nib, shu shaharga shoh bo'lib qoldi. Yillar o'tib, do'sti shu shaharga keladi. Har yerga qo'yilgan shahar shohining rasmiga ko'zi tusha-di. Do'stining iqbolidan shodlanib, uni ko'rishga oshiqdi. Podshoh saroyiga borib uning huzuriga kirdi. Podshoh uni tanib, tanimaslikka oldi. U kuyunib, yonib «Axir men sening do'sting falonchiman-ku!» deb o'zini tanitdi. Podshoh esa: «Xo'sh, mendan nima istaysan», dedi. Do'sti esa «Sendan hech qanday iltimosim yo'q. Shahringga kelsam, xalq orasida podshohning ko'zlari ojiz bo'lib qolibdi, degan xunuk xabarni eshitdim. Shuning uchun do'stimning holidan xabar olay deb huzuringga kelgan edim», debdi-yu, yo'liga qaytibdi.`,
