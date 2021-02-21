@@ -16,7 +16,7 @@ export default () => {
 
     `Dushman uyida yashagandan, Do'st uyida o'lgan yaxshi.`,
 
-    `Dushjmanimning do'sti - mening dushmanim, Dushmanimning dushmani - mening do'stim.`,
+    `Dushmanimning do'sti - mening dushmanim, Dushmanimning dushmani - mening do'stim.`,
 
     `Do'st ziyonkor bo'lmas, Ziyonkor do'st bo'lmas.`,
 
