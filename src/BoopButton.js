@@ -7,7 +7,7 @@ import boopSfx from './assets/sounds/boop.mp3'
 const BoopButton = () => {
   const [play] = useSound(boopSfx)
 
-  return <button className="btn btn-danger" onClick={play}>Sound</button>
+  return <button className="btn btn-danger mr-3" onClick={play}>Sound</button>
 }
 
 export default BoopButton

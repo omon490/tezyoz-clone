@@ -2,6 +2,7 @@ import React, {Component} from 'react'
 import Preview from './prev'
 import Speed from './Speed'
 import BoopButton from './BoopButton'
+import BeepButton from './anotherSound'
 import getText from './getText'
 
 
@@ -79,6 +80,7 @@ class App extends Component {
               <button className="btn btn-light mr-3" onClick={this.onRefresh}>Boshqa matn</button>
               <button className="btn btn-light" onClick={this.onRestart}>Restart</button>
             <BoopButton />
+            <BeepButton />
             </div>
           </div>
         </div>
